@@ -1,22 +1,26 @@
 <h2>📘 Découvrez nos livres</h2>
 
-<div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
+<div style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; padding:20px;">
+
   <div>
     <a href="je-suis-trois.html">
       <img src="images/je-suis-trois.png" alt="Je suis Trois" style="width:150px; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
     </a>
     <p><strong>Je suis Trois</strong><br>Un roman jeunesse sur l'identité.</p>
   </div>
+
   <div>
     <a href="shadows.html">
       <img src="images/shadows.png" alt="Moi Shadows" style="width:150px; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
     </a>
     <p><strong>Moi, Shadows</strong><br>Le regard d’un chien sur l’humanité.</p>
   </div>
+
   <div>
     <a href="vieil-homme.html">
       <img src="images/vieil-homme.png" alt="Le vieil homme" style="width:150px; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
     </a>
     <p><strong>Le vieil homme...</strong><br>Un pacte avec le silence.</p>
   </div>
-</div>
+
+</div> 
